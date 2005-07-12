@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Acme-UTF1
+version: 1
+author:
+  - Tom Insam <tom@jerakeen.org>
+abstract: 
+license: perl
+generated_by: Module::Build version 0.261, without YAML.pm
